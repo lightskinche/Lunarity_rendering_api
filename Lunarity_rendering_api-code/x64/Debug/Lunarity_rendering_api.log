@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(8,16): warning C4026: function declared with formal parameter list
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(17,20): warning C4018: '<': signed/unsigned mismatch
+  Lunarity_rendering_api.vcxproj -> C:\Users\Light\source\repos\Lunarity_rendering_api\x64\Debug\Lunarity_rendering_api.exe

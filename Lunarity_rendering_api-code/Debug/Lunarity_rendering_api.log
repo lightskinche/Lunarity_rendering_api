@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(7,16): warning C4026: function declared with formal parameter list
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(10,61): warning C4047: 'function': 'const char **' differs in levels of indirection from 'char *'
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(10,49): warning C4024: 'SDL_Vulkan_GetInstanceExtensions': different types for formal and actual parameter 3
+C:\Users\Light\source\repos\Lunarity_rendering_api\main.c(13,45): warning C4047: '=': 'const char *const *' differs in levels of indirection from 'char *'
+  Lunarity_rendering_api.vcxproj -> C:\Users\Light\source\repos\Lunarity_rendering_api\Debug\Lunarity_rendering_api.exe

@@ -1,0 +1,2 @@
+C:\Users\Light\source\repos\Lunarity_rendering_api\x64\Debug\Lunarity_rendering_api.exe
+C:\Users\Light\source\repos\Lunarity_rendering_api\x64\Debug\Lunarity_rendering_api.pdb
